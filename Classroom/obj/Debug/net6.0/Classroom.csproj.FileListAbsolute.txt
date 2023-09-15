@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Classroom\Classroom\obj\Debug\net6.0\Classroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Classroom\Classroom\obj\Debug\net6.0\Classroom.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Classroom\Classroom\obj\Debug\net6.0\Classroom.AssemblyInfo.cs
+C:\Users\User\source\repos\Classroom\Classroom\obj\Debug\net6.0\Classroom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Classroom\Classroom\bin\Debug\net6.0\Classroom.exe
+C:\Users\User\source\repos\Classroom\Classroom\bin\Debug\net6.0\Classroom.deps.json
+C:\Users\User\source\repos\Classroom\Classroom\bin\Debug\net6.0\Classroom.runtimeconfig.json
+C:\Users\User\source\repos\Classroom\Classroom\bin\Debug\net6.0\Classroom.dll
+C:\Users\User\source\repos\Classroom\Classroom\bin\Debug\net6.0\Classroom.pdb
+C:\Users\User\source\repos\Classroom\Classroom\obj\Debug\net6.0\Classroom.dll
+C:\Users\User\source\repos\Classroom\Classroom\obj\Debug\net6.0\refint\Classroom.dll
+C:\Users\User\source\repos\Classroom\Classroom\obj\Debug\net6.0\Classroom.pdb
+C:\Users\User\source\repos\Classroom\Classroom\obj\Debug\net6.0\Classroom.genruntimeconfig.cache
+C:\Users\User\source\repos\Classroom\Classroom\obj\Debug\net6.0\ref\Classroom.dll
